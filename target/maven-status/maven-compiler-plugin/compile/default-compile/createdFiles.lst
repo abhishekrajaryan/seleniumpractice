@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\LoginPage.class
+tests\AddNewPayee.class
+pages\AccountSummaryPage.class
+pages\HomePage.class
+testdata\ReadExcelData.class
+base\BaseTest.class
+pages\PayBillsPage.class
